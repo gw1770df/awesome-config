@@ -2,6 +2,10 @@
 # (‑●‑●)> dual licensed under the WTFPL v2 license and the MIT license,
 #         without any warranty.
 #         Copyright 2012— Gregory Pakosz (@gpakosz).
+#
+# install tmux config
+# > git clone https://github.com/gpakosz/.tmux.git
+# > ln -s -f .tmux/.tmux.conf
 
 
 # -- navigation ----------------------------------------------------------------
