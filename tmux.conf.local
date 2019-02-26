@@ -6,6 +6,7 @@
 # install tmux config
 # > git clone https://github.com/gpakosz/.tmux.git
 # > ln -s -f .tmux/.tmux.conf
+# wget https://raw.githubusercontent.com/gw1770df/awesome-config/master/tmux.conf.local && mv tmux.conf.local ~/.tmux.conf.local
 
 
 # -- navigation ----------------------------------------------------------------
